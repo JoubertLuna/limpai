@@ -7,7 +7,7 @@ Desenvolvido por Joubert Luna
 ### Clonar o repositório
 
 ....
-Aqui
+https://github.com/JoubertLuna/limpai.git
 ....
 
 ### Instalar as dependências
